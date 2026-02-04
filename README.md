@@ -1,66 +1,43 @@
-# \# Web Services \& Transactions Lab 🌐
+# Web Services & Transactions Lab 🌐
 
-# 
-
-# Αυτό το αποθετήριο περιέχει τις εργασίες του εργαστηρίου για το μάθημα "Υπηρεσίες και Συναλλαγές Ιστού". Περιλαμβάνει υλοποιήσεις SOAP και REST υπηρεσιών, καθώς και εφαρμογές κατανάλωσης αυτών των υπηρεσιών.
-
-# 
-
-# \## 📁 Δομή του Repository
-
-# 
-
-# \### 🧪 Lab 2: SOAP Web Services \& XML
-
-# \* \*\*CalculatorLab2 / ConverterLab2\*\*: Βασικές υπηρεσίες SOAP για υπολογισμούς και μετατροπές.
-
-# \* \*\*CountriesLab2b / StadiaLab2b\*\*: Υπηρεσίες παροχής δεδομένων για χώρες και στάδια.
-
-# 
-
-# \### ⚽ Lab 3: Data Management \& Services
-
-# \* \*\*MundialLab3 / EURO2025Lab3 / StadiaLab3\*\*: Πιο σύνθετες υπηρεσίες που διαχειρίζονται δεδομένα αθλητικών διοργανώσεων.
-
-# 
-
-# \### ⚡ Lab 5: Modern API Development
-
-# \* \*\*RestApiLab5App\*\*: Υλοποίηση RESTful API για σύγχρονες εφαρμογές ιστού.
-
-# 
-
-# \### 🛠️ Γενικά \& Δοκιμαστικά
-
-# \* \*\*WSDemo / TestWS\*\*: Αρχικές δοκιμές και παραδείγματα Web Services.
-
-# \* \*\*MyConsumer\*\*: Client εφαρμογή για την κατανάλωση των παραπάνω υπηρεσιών.
-
-# \* \*\*TestWebSite\*\*: Διεπαφή χρήστη για την επικοινωνία με τις υπηρεσίες.
-
-# 
-
-# \## 🛠️ Τεχνολογίες
-
-# \* \*\*Web Services\*\*: SOAP, WSDL, REST
-
-# \* \*\*Γλώσσες/Frameworks\*\*: .NET / C# (ή Java, ανάλογα τι χρησιμοποίησες)
-
-# \* \*\*Data Formats\*\*: XML, JSON
-
-
-
-\## 👥 Συντελεστές
-
-
-
-\* \*\*Φοιτητής:\*\* \[Christos Petridis](https://github.com/XPPET)
-
-\* \*\*Επιβλέπων Καθηγητής:\*\* Mr. Christos Georgiadis
-
-
+This repository contains the laboratory assignments for the **"Web Services and Transactions"** course. It features a comprehensive collection of SOAP and RESTful service implementations, along with client-side consumers.
 
 ---
 
-\*Αυτό το αποθετήριο δημιουργήθηκε στα πλαίσια του εργαστηρίου "Υπηρεσίες και Συναλλαγές Ιστού".\*
+## 👨‍💻 Author & Supervision
+* **Student:** [Christos Petridis](https://github.com/XPPET)
+* **Supervisor:** Mr. Christos Georgiadis
 
+---
+
+## 📁 Project Structure
+
+### 🧪 Lab 2: SOAP Web Services & XML
+* **CalculatorLab2 & ConverterLab2**: Fundamental SOAP services for arithmetic operations and unit conversions.
+* **CountriesLab2b & StadiaLab2b**: Data-driven services providing information about countries and sports venues.
+
+### ⚽ Lab 3: Advanced Service Logic
+* **MundialLab3, EURO2025Lab3 & StadiaLab3**: Complex service implementations managing sports tournament data and stadium information.
+
+### ⚡ Lab 5: Modern API Development
+* **RestApiLab5App**: Implementation of a modern RESTful API following industry standards.
+
+### 🛠️ Utilities & Testing
+* **WSDemo & TestWS**: Initial boilerplate and connectivity testing for Web Services.
+* **MyConsumer**: A dedicated client application designed to consume and test the above services.
+* **TestWebSite**: A web interface for interacting with the service endpoints.
+
+---
+
+## 🛠️ Tech Stack
+* **Web Services:** SOAP, WSDL, REST
+* **Data Formats:** XML, JSON, XSD
+* **Environment:** .NET Framework / C#
+* **Tools:** Visual Studio, Git
+
+---
+
+## 🚀 How to Use
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/XPPET/web-services-lab.git](https://github.com/XPPET/web-services-lab.git)
