@@ -1,15 +1,13 @@
-# Gradle
-.gradle/
-build/
+# Build results
+[Bb]in/
+[Oo]bj/
 
-# IDEs
-.idea/
-.vscode/
-*.iml
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
 
-# OS
-.DS_Store
-Thumbs.db
-
-# Logs
-*.log
+# Packages
+packages/
