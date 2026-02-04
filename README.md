@@ -1,2 +1,66 @@
-# web-services-lab
-University lab exercises on Web Services and Web Transactions (WST), including REST, SOAP and service-oriented architectures.
+# \# Web Services \& Transactions Lab 🌐
+
+# 
+
+# Αυτό το αποθετήριο περιέχει τις εργασίες του εργαστηρίου για το μάθημα "Υπηρεσίες και Συναλλαγές Ιστού". Περιλαμβάνει υλοποιήσεις SOAP και REST υπηρεσιών, καθώς και εφαρμογές κατανάλωσης αυτών των υπηρεσιών.
+
+# 
+
+# \## 📁 Δομή του Repository
+
+# 
+
+# \### 🧪 Lab 2: SOAP Web Services \& XML
+
+# \* \*\*CalculatorLab2 / ConverterLab2\*\*: Βασικές υπηρεσίες SOAP για υπολογισμούς και μετατροπές.
+
+# \* \*\*CountriesLab2b / StadiaLab2b\*\*: Υπηρεσίες παροχής δεδομένων για χώρες και στάδια.
+
+# 
+
+# \### ⚽ Lab 3: Data Management \& Services
+
+# \* \*\*MundialLab3 / EURO2025Lab3 / StadiaLab3\*\*: Πιο σύνθετες υπηρεσίες που διαχειρίζονται δεδομένα αθλητικών διοργανώσεων.
+
+# 
+
+# \### ⚡ Lab 5: Modern API Development
+
+# \* \*\*RestApiLab5App\*\*: Υλοποίηση RESTful API για σύγχρονες εφαρμογές ιστού.
+
+# 
+
+# \### 🛠️ Γενικά \& Δοκιμαστικά
+
+# \* \*\*WSDemo / TestWS\*\*: Αρχικές δοκιμές και παραδείγματα Web Services.
+
+# \* \*\*MyConsumer\*\*: Client εφαρμογή για την κατανάλωση των παραπάνω υπηρεσιών.
+
+# \* \*\*TestWebSite\*\*: Διεπαφή χρήστη για την επικοινωνία με τις υπηρεσίες.
+
+# 
+
+# \## 🛠️ Τεχνολογίες
+
+# \* \*\*Web Services\*\*: SOAP, WSDL, REST
+
+# \* \*\*Γλώσσες/Frameworks\*\*: .NET / C# (ή Java, ανάλογα τι χρησιμοποίησες)
+
+# \* \*\*Data Formats\*\*: XML, JSON
+
+
+
+\## 👥 Συντελεστές
+
+
+
+\* \*\*Φοιτητής:\*\* \[Christos Petridis](https://github.com/XPPET)
+
+\* \*\*Επιβλέπων Καθηγητής:\*\* Mr. Christos Georgiadis
+
+
+
+---
+
+\*Αυτό το αποθετήριο δημιουργήθηκε στα πλαίσια του εργαστηρίου "Υπηρεσίες και Συναλλαγές Ιστού".\*
+
